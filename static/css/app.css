@@ -1,0 +1,79 @@
+body,
+div,
+table,
+tr,
+h1,
+span,
+td {
+    color: #ffffff;
+}
+
+td {
+    padding: 10px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+input {
+    height: 2rem;
+    width: 99%;
+}
+
+button {
+    height: 2.5rem;
+    width: 100%;
+    border: none;
+    text-align: center;
+}
+
+.blue-black {
+    background: #01848f;
+}
+
+.center {
+    text-align: center;
+}
+
+footer {
+    height: 2.5em;
+}
+
+.black {
+    color: #333;
+}
+
+td:active {
+    background: #036e77;
+}
+
+.container-center {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 10rem;
+}
+
+.close {
+    text-align: right;
+}
+
+.close-text {
+    padding: 8px;
+}
+
+.close-text:active {
+    color: beige;
+}
+
+.right {
+    position: absolute;
+    right: 0px;
+}
